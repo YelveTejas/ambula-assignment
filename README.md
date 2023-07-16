@@ -1,6 +1,6 @@
 
 <h1>Shopping cart and todo app</h1>
-<P>A Full Stack todo app where you can add, update and delete multiple todos at the same time.</P>
+<P>Todo and Shopping cart app.</P>
 
 <h3>To visit  website   <a href='https://lambent-caramel-a71bdd.netlify.app/'>Click here</a></h3>
 
